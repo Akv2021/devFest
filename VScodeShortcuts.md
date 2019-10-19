@@ -335,7 +335,6 @@ EXTENSIONS NOT WORKING.
 3. LEAPER
 4. QUOKKA.JS
 
-<<<<<<< HEAD
 VSCODE MISC settings
 ---------------------
 
@@ -2420,5 +2419,3 @@ VSCODE MISC settings
   // Controls whether auto detection of Jake tasks is on or off. Default is on.
   "jake.autoDetect": "on"
 }
-=======
->>>>>>> 58af9d169f329ced6727efea790d28b049a826b5
