@@ -1,0 +1,2 @@
+This repo contains the collection of tips,tricks and shortcuts needed to lookup during development.
+This also contains some small but often forgotten things which are used sparsely and often need lookup.
